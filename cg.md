@@ -10,7 +10,7 @@ OpenGL is constantly evolving and has gone through several major revisions over 
 
 #### draw green square
 
-`.cpp
+```.cpp
 #include <GL/glut.h>
 
 void display() {
@@ -34,6 +34,7 @@ glutDisplayFunc(display);
 glutMainLoop();
 return 0;
 }
+```
 
 ### translate square in x and y direction
 
