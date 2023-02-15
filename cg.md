@@ -178,3 +178,9 @@ return 0;
 }
 
 ```
+
+### math function in the header
+
+```.cpp
+<math.h>
+```
